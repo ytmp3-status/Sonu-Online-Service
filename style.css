@@ -80,3 +80,22 @@ footer{
     text-decoration:none;
     font-size:28px;
 }
+.about,
+.contact{
+    padding:50px 20px;
+    text-align:center;
+    background:white;
+    margin:20px;
+    border-radius:12px;
+    box-shadow:0 3px 10px rgba(0,0,0,.1);
+}
+
+.about h2,
+.contact h2{
+    margin-bottom:20px;
+}
+
+.about p,
+.contact p{
+    line-height:1.8;
+}
